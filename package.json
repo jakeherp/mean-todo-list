@@ -1,0 +1,28 @@
+{
+  "name": "mean-todo-list",
+  "version": "1.0.0",
+  "description": "MEAN.JS To Do List Application",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeherp/mean-todo-list.git"
+  },
+  "author": "Jacob Herper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakeherp/mean-todo-list/issues"
+  },
+  "homepage": "https://github.com/jakeherp/mean-todo-list#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "body-parser": "1.14.2",
+    "express": "4.13.4",
+    "mongoose": "4.4.5"
+  },
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
+}
