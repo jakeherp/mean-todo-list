@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/jakeherp/mean-todo-list#readme",
   "dependencies": {
-    "angular": "^1.6.9",
-    "body-parser": "1.18.2",
-    "express": "4.16.0",
-    "mongoose": "4.11.14"
+    "angular": "^1.4.8",
+    "body-parser": "1.14.2",
+    "express": "4.13.4",
+    "mongoose": "4.13.17"
   },
   "devDependencies": {
     "webpack": "1.12.14"
