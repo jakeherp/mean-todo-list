@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jakeherp/mean-todo-list#readme",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "body-parser": "1.18.2",
     "express": "4.16.0",
     "mongoose": "5.7.5"
