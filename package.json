@@ -20,7 +20,7 @@
     "angular": "^1.7.9",
     "body-parser": "1.18.2",
     "express": "4.16.0",
-    "mongoose": "5.7.5"
+    "mongoose": "5.10.7"
   },
   "devDependencies": {
     "webpack": "1.12.14"
